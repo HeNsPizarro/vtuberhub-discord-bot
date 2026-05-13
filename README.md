@@ -7,7 +7,7 @@ El sistema está pensado con una **arquitectura profesional**, usando **MySQL co
 
 ---
 
-## 🧠 Arquitectura General
+##  Arquitectura General
 
 ```
 Usuario Discord
@@ -29,7 +29,7 @@ Base de Datos MySQL  ← n8n ← Twitch API
 
 ---
 
-## 🗄️ Base de Datos
+##  Base de Datos
 
 ### Tabla: `vtubers`
 Fuente principal de datos de VTubers.
@@ -86,7 +86,7 @@ Campos:
 
 ---
 
-## ⚙️ Comandos Disponibles
+##  Comandos Disponibles
 
 ### 🔍 `/vtuber buscar <login>`
 Busca una VTuber.
@@ -146,7 +146,7 @@ Configura el canal de notificaciones del servidor.
 
 ---
 
-## 🧩 Servicios Importantes
+##  Servicios Importantes
 
 ### `VTuberService`
 Capa de acceso a datos.
@@ -160,7 +160,7 @@ Responsabilidades:
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 - Python 3.11
 - discord.py (app_commands)
@@ -171,7 +171,7 @@ Responsabilidades:
 
 ---
 
-## 🚀 Estado del Proyecto
+##  Estado del Proyecto
 
 ✔ Arquitectura estable
 ✔ Base de datos centralizada
@@ -186,7 +186,7 @@ Pendiente:
 
 ---
 
-## ✨ Filosofía
+##  Filosofía
 
 Este bot está diseñado como un **sistema vivo**, no como un bot simple.
 
@@ -196,5 +196,5 @@ Este bot está diseñado como un **sistema vivo**, no como un bot simple.
 
 ---
 
-Hecho con ❤️ y muchas horas de debugging 😄
+Hecho con ❤️ y muchas horas de debugging.
 
