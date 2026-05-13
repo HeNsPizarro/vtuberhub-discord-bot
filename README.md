@@ -1,4 +1,4 @@
-[readme (1) (1).md](https://github.com/user-attachments/files/27675663/readme.1.1.md)
+[readme.md](https://github.com/user-attachments/files/27675663/readme.1.1.md)
 # 🤖 VTuberInfoBot
 
 Bot de Discord orientado a VTubers, diseñado para **buscar información**, **seguir VTubers**, **mostrar quién está en vivo** y **enviar notificaciones automáticas** cuando una VTuber comienza stream.
